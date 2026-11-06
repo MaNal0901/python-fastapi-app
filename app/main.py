@@ -16,3 +16,4 @@ def root():
 @app.get("/health")
 def health():
     return {"ok": True}
+# Test du déclenchement du workflow GitHub Actions
