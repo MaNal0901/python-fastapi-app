@@ -50,6 +50,7 @@ docker run -p 8000:8000 fastapi-starter
 ## CI
 
 GitHub Actions workflow runs linting and tests with coverage on Python 3.13. See `.github/workflows/ci.yml`.
+Test TP5 : modification du README.
 
 ## License
 
